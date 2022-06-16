@@ -9,3 +9,6 @@ data/
 
 # パッケージド ワークブック
 *.twbx
+
+# PyCharm
+.idea
