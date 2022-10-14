@@ -12,3 +12,6 @@ data/
 
 # PyCharm
 .idea
+
+# TabPy Log
+tabpy_log.log
