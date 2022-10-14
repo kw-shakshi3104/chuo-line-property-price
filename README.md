@@ -4,7 +4,30 @@
 
 ## ディレクトリ構造
 
-Under construction...
+```
+.
+├── JR_JC_line_symbol.svg.png
+├── README.md
+├── chuo-line-property-price.tfl
+├── chuo-line-property-price.twb
+├── data
+│   ├── 13101_20161_20214.csv
+│   ├── 13102_20161_20214.csv
+│   ├── 13104_20161_20214.csv
+│   ├── 13113_20161_20214.csv
+│   ├── 13114_20161_20214.csv
+│   ├── 13115_20161_20214.csv
+│   ├── 13202_20161_20214.csv
+│   ├── 13203_20161_20214.csv
+│   ├── 13210_20161_20214.csv
+│   ├── 13214_20161_20214.csv
+│   └── 中央線-UTF8+Express.csv
+├── deploy_tabpy.py
+├── full_to_half.py
+├── tabpy_log.log
+└── train_model.py
+
+```
 
 
 ## データソース
