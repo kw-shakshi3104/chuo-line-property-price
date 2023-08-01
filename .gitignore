@@ -9,3 +9,9 @@ data/
 
 # パッケージド ワークブック
 *.twbx
+
+# PyCharm
+.idea
+
+# TabPy Log
+tabpy_log.log
